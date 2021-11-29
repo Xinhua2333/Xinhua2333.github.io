@@ -44,14 +44,14 @@
 #section1{
     color: #2c3e50;
     position: relative;
-    /*background-image: url(intro-bg.jpg);*/
+    background-image: url(intro-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     overflow: hidden;
 }
 #section5{
-    background: url("skills-bg.jpg") no-repeat center;
+    background: url(skills-bg.jpg) no-repeat center;
     background-attachment: fixed;
 }
 #section7{
@@ -60,7 +60,7 @@
     background-position: center;
     background-size: cover;
     overflow: hidden;
-    background: url("achivements-bg.jpg") no-repeat center;
+    background: url(achivements-bg.jpg) no-repeat center;
     background-attachment: fixed;
 }
 .cv-container{
